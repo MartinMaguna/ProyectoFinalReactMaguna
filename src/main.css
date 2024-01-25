@@ -6,8 +6,8 @@
 }
 
 :root {
-    --clr-main: #c56cee;
-    --clr-main-light: #efdaf9;
+    --clr-main: #000000;
+    --clr-main-light: #dfdfdf;
 }
 
 .container {
@@ -31,7 +31,7 @@
 
 .logo {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .menu {
@@ -43,7 +43,7 @@
 
 .menu-link {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 1.2rem;
 }
 
